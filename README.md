@@ -9,6 +9,8 @@
   * For use with adhesive
 * Flat surface mount
 
+![Image of desk edge mount with clamp](./doc/desk_edge_mount_with_screw.jpg)
+
 ## License
 
 ![CC BY-NC-SA 4.0](./doc/by-nc-sa.svg)
